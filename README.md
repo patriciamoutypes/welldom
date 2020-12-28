@@ -1,4 +1,4 @@
-# Fullstack Twitter Clone
+# Welldom
 
 This is the accompanying repository to [this tutorial.](https://kunal.sh/posts/building-a-fullstack-twitter-clone). Check out the Demo app at https://fullstack-twitter.onrender.com/.
 
